@@ -1,0 +1,25 @@
+{
+  "name": "exercicios-31",
+  "version": "1.0.0",
+  "description": "exercicios-31",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPWUnesc/exercicios-31.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPWUnesc/exercicios-31/issues"
+  },
+  "homepage": "https://github.com/JPWUnesc/exercicios-31#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
